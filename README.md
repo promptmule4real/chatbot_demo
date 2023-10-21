@@ -77,6 +77,7 @@ We value your input:
 - Additional support and contact options are available at [Promptmule](https://www.promptmule.com).
 - https://promptmule.com/docs/
 - Also, check out the Promptmule demo here: https://github.com/promptmule4real/promptmule_demo
+- More on Chainlit here: https://docs.chainlit.io/get-started/overview
 
 ## License
 
