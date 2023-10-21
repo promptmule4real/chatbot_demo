@@ -1,6 +1,6 @@
 # Quick-Chat with Silicon Valley
 
-Experience the thrill of AI-powered conversations with characters from "Silicon Valley." This interactive chat tool uses advanced AI to simulate dialogues with your favorite personas, offering a unique blend of entertainment and nostalgia.
+Use the Promptmule cache-as-a-service free to chat characters from "Silicon Valley." This interactive chat tool uses advanced AI to simulate dialogues with your favorite personas, offering a unique blend of entertainment and nostalgia.
 
 ## Overview
 
@@ -75,6 +75,8 @@ We value your input:
 - Discuss and collaborate with us on [Discord](https://discord.gg/C5ZqNkSK).
 - For bug reports or feature requests, please use [GitHub issues](https://github.com/promptmule4real/quick-chat-silicon-valley/issues).
 - Additional support and contact options are available at [Promptmule](https://www.promptmule.com).
+- https://promptmule.com/docs/
+- Also, check out the Promptmule demo here: https://github.com/promptmule4real/promptmule_demo
 
 ## License
 
