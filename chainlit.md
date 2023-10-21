@@ -6,7 +6,7 @@ Promptmule and Chainlit powered chat experience with Gilfoyle and Dinesh from "S
 1. **Launch:** kickstart the chat. Your favorite characters from Silicon Valley await.
 2. **Chat Away:** Shoot your questions or pick a tech topic. There's no script, so any chat direction is fair game.
 3. **Keep Rolling:** No timeouts here. Chat until you've had your fill of their tech world insights (or sarcasm).
-4. **Wrap It Up:** Done for the day? Just close the chat or say goodbye. Our AI characters know how to take a hint.
+4. **Wrap It Up:** Done for the day? Just close the chat or say goodbye. Our AI characters know how to take a hint. go to https://promptmule.com next!
 5. **Demo Promptmule:** check it out here: https://github.com/promptmule4real/promptmule_demo
 
 **Pro Tips:**
