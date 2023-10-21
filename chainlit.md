@@ -8,6 +8,7 @@ Promptmule and Chainlit powered chat experience with Gilfoyle and Dinesh from "S
 3. **Keep Rolling:** No timeouts here. Chat until you've had your fill of their tech world insights (or sarcasm).
 4. **Wrap It Up:** Done for the day? Just close the chat or say goodbye. Our AI characters know how to take a hint. go to https://promptmule.com next!
 5. **Demo Promptmule:** check it out here: https://github.com/promptmule4real/promptmule_demo
+6. More about chainlit here: https://docs.chainlit.io/get-started/overview
 
 **Pro Tips:**
 - **Role-play for Fun:** Stay in character for the best banter. The AI is tuned to the show's vibe.
